@@ -8,6 +8,6 @@
 
 ### 学习仓库
 - 算法学习：https://github.com/tingfeng-work/algorithm-learning
-- MySQL 学习
+- MySQL 学习 https://github.com/tingfeng-work/mysql-learning
 - Spring Boot（敬请期待）
 - 项目（敬请期待）
