@@ -10,4 +10,4 @@
 - 算法学习：https://github.com/tingfeng-work/algorithm-learning
 - MySQL 学习 https://github.com/tingfeng-work/mysql-learning
 - SSM 学习 https://github.com/tingfeng-work/ssm-learning
-- 项目（敬请期待）
+- 项目 https://github.com/tingfeng-work/project
